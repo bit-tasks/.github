@@ -17,7 +17,7 @@ The Bit Tasks organization contains different scripts, tools and CI/CD solutions
 - **Examples (GitHub Actions)**
   - [Examples](https://github.com/bit-tasks/github-action-examples)
  
-- **Docker Scripts**
+- **Tasks (Docker Shell Scripts)**
   - [github.bit.init](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/github.bit.init)
   - [github.bit.verify](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/github.bit.verify)
   - [github.bit.tag-export](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/github.bit.tag-export)
@@ -32,7 +32,7 @@ The Bit Tasks organization contains different scripts, tools and CI/CD solutions
 
 ### GitLab
 
-- **Docker Scripts**
+- **Tasks (Docker Shell Scripts)**
   - [gitlab.bit.init](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/gitlab.bit.init)
   - [gitlab.bit.verify](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/gitlab.bit.verify)
   - [gitlab.bit.tag-export](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/gitlab.bit.tag-export)
@@ -42,9 +42,11 @@ The Bit Tasks organization contains different scripts, tools and CI/CD solutions
   - [gitlab.bit.dependency-update](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/gitlab.bit.dependency-update)
   - [gitlab.bit.branch-lane](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/gitlab.bit.branch-lane)
 
-
+- **Examples (GitLab Pipelines)**
+  - [Examples](https://github.com/bit-tasks/gitlab-pipeline-examples)
 
 ### Jenkins
+
 
 #### Jenkins Scripts Examples
 
