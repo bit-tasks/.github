@@ -2,7 +2,7 @@
 
 The Bit Tasks organization contains different scripts, tools and CI/CD solutions to use Bit with Git.
 
-### GitHub :octocat:
+### GitHub <img src="https://github.githubassets.com/favicons/favicon.png" width="24" height="24" alt="GitHub Icon">
 
 | GitHub Marketplace Tasks | Docker Shell Scripts | Examples | Dependabot |
 |---------------------------|-----------------------------|---------------------------|------------|
