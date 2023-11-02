@@ -1,4 +1,4 @@
-## Bit and Git CI/CD
+## Bit tasks for Git: Overview
 
 The Bit Tasks organization contains different scripts, tools and CI/CD solutions to use Bit with Git.
 
