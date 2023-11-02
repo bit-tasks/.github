@@ -2,50 +2,36 @@
 
 The Bit Tasks organization contains different scripts, tools and CI/CD solutions to use Bit with Git.
 
-### GitHub
+### GitHub :octocat:
 
-- **Tasks (GitHub Actions)**
-  - [Initialize Bit](https://github.com/bit-tasks/init)
-  - [Bit Verify Components ](https://github.com/bit-tasks/verify)
-  - [Bit Tag and Export](https://github.com/bit-tasks/tag-export)
-  - [Bit Pull Request Build  ](https://github.com/bit-tasks/pull-request)
-  - [Bit Lane Cleanup  ](https://github.com/bit-tasks/lane-cleanup)
-  - [Commit Bitmap  ](https://github.com/bit-tasks/commit-bitmap)
-  - [Dependency Update](https://github.com/bit-tasks/dependency-update)
-  - [Branch Lane](https://github.com/bit-tasks/branch-lane)
+| GitHub Marketplace Tasks | Docker Shell Scripts | Examples (Marketplace Tasks) | Dependabot |
+|---------------------------|-----------------------------|---------------------------|------------|
+| [Initialize Bit](https://github.com/bit-tasks/init) | [github.bit.init](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/github.bit.init) | [Examples](https://github.com/bit-tasks/github-action-examples) | [Setup Guide](https://github.com/bit-tasks/dependabot) |
+| [Bit Verify Components](https://github.com/bit-tasks/verify) | [github.bit.verify](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/github.bit.verify) | | |
+| [Bit Tag and Export](https://github.com/bit-tasks/tag-export) | [github.bit.tag-export](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/github.bit.tag-export) | | |
+| [Bit Pull Request Build](https://github.com/bit-tasks/pull-request) | [github.bit.pull-request](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/github.bit.pull-request) | | |
+| [Bit Lane Cleanup](https://github.com/bit-tasks/lane-cleanup) | [github.bit.lane-cleanup](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/github.bit.lane-cleanup) | | |
+| [Commit Bitmap](https://github.com/bit-tasks/commit-bitmap) | [github.bit.commit-bitmap](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/github.bit.commit-bitmap) | | |
+| [Dependency Update](https://github.com/bit-tasks/dependency-update) | [github.bit.dependency-update](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/github.bit.dependency-update) | | |
+| [Branch Lane](https://github.com/bit-tasks/branch-lane) | [github.bit.branch-lane](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/github.bit.branch-lane) | | |
 
-- **Examples (GitHub Actions)**
-  - [Examples](https://github.com/bit-tasks/github-action-examples)
- 
-- **Tasks (Docker Shell Scripts)**
-  - [github.bit.init](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/github.bit.init)
-  - [github.bit.verify](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/github.bit.verify)
-  - [github.bit.tag-export](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/github.bit.tag-export)
-  - [github.bit.pull-request](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/github.bit.pull-request)
-  - [github.bit.lane-cleanup](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/github.bit.lane-cleanup)
-  - [github.bit.commit-bitmap](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/github.bit.commit-bitmap)
-  - [github.bit.dependency-update](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/github.bit.dependency-update)
-  - [github.bit.branch-lane](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/github.bit.branch-lane)
- 
-- **Dependabot:**
-  - [Setup Guide](https://github.com/bit-tasks/dependabot)
 
-### GitLab
 
-- **Tasks (Docker Shell Scripts)**
-  - [gitlab.bit.init](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/gitlab.bit.init)
-  - [gitlab.bit.verify](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/gitlab.bit.verify)
-  - [gitlab.bit.tag-export](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/gitlab.bit.tag-export)
-  - [gitlab.bit.merge-request](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/gitlab.bit.merge-request)
-  - [gitlab.bit.lane-cleanup](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/gitlab.bit.lane-cleanup)
-  - [gitlab.bit.commit-bitmap](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/gitlab.bit.commit-bitmap)
-  - [gitlab.bit.dependency-update](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/gitlab.bit.dependency-update)
-  - [gitlab.bit.branch-lane](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/gitlab.bit.branch-lane)
+### GitLab ![GitLab Logo](https://docs.gitlab.com/assets/images/gitlab-logo-header.svg)
 
-- **Examples (GitLab Pipelines)**
-  - [Examples](https://github.com/bit-tasks/gitlab-pipeline-examples)
+| Docker Shell Scripts | Examples (GitLab Pipelines) |
+|-----------------------------|-----------------------------|
+| [gitlab.bit.init](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/gitlab.bit.init) | [Examples](https://github.com/bit-tasks/gitlab-pipeline-examples) |
+| [gitlab.bit.verify](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/gitlab.bit.verify) | |
+| [gitlab.bit.tag-export](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/gitlab.bit.tag-export) | |
+| [gitlab.bit.merge-request](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/gitlab.bit.merge-request) | |
+| [gitlab.bit.lane-cleanup](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/gitlab.bit.lane-cleanup) | |
+| [gitlab.bit.commit-bitmap](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/gitlab.bit.commit-bitmap) | |
+| [gitlab.bit.dependency-update](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/gitlab.bit.dependency-update) | |
+| [gitlab.bit.branch-lane](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/gitlab.bit.branch-lane) | |
 
-### Jenkins
+
+### Jenkins :jenkins:
 
 - **Tasks (Pipeline Scripts)**
   - [Initialize Bit](https://github.com/bit-tasks/jenkins-examples/blob/main/jenkins-files/bit-init)
@@ -70,10 +56,11 @@ The Bit Tasks organization contains different scripts, tools and CI/CD solutions
 ### Other Scripts
 
 
-#### Shell Script Examples
+#### Shell Scripts :shell:
 
 
-#### Node Scripts Examples
+#### Node Scripts :nodejs:
+
 
 
 ### Bit Docker Image
