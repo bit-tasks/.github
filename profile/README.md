@@ -47,8 +47,19 @@ The Bit Tasks organization contains different scripts, tools and CI/CD solutions
 
 ### Jenkins
 
+- **Tasks (Pipeline Scripts)**
+  - [Initialize Bit](https://github.com/bit-tasks/jenkins-examples/blob/main/jenkins-files/bit-init)
+  - [Bit Verify Components ](https://github.com/bit-tasks/jenkins-examples/blob/main/jenkins-files/verify)
+  - [Bit Tag and Export](https://github.com/bit-tasks/jenkins-examples/blob/main/jenkins-files/tag-export)
+  - [Bit Pull Request Build  ](https://github.com/bit-tasks/jenkins-examples/blob/main/jenkins-files/pull-request)
+  - [Bit Lane Cleanup  ](https://github.com/bit-tasks/jenkins-examples/blob/main/jenkins-files/lane-cleanup)
+  - [Commit Bitmap  ](https://github.com/bit-tasks/jenkins-examples/blob/main/jenkins-files/commit-bitmap)
+  - [Dependency Update](https://github.com/bit-tasks/jenkins-examples/blob/main/jenkins-files/dependency-update)
+  - [Branch Lane](https://github.com/bit-tasks/jenkins-examples/blob/main/jenkins-files/branch-lane)
 
-#### Jenkins Scripts Examples
+
+- **Examples (Pipeline Scriptrs)**
+  - [Examples](https://github.com/bit-tasks/jenkins-examples)
 
 
 ### Azure DevOps
