@@ -17,7 +17,7 @@ The Bit Tasks organization contains different scripts, tools and CI/CD solutions
 
 
 
-### GitLab ![GitLab Logo](https://docs.gitlab.com/assets/images/gitlab-logo-header.svg)
+### GitLab <img src="https://docs.gitlab.com/assets/images/gitlab-logo-header.svg" alt="GitLab Icon">
 
 | Docker Shell Scripts | Examples |
 |-----------------------------|-----------------------------|
@@ -31,7 +31,7 @@ The Bit Tasks organization contains different scripts, tools and CI/CD solutions
 | [gitlab.bit.branch-lane](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/gitlab.bit.branch-lane) | |
 
 
-### Jenkins ![Jenkins Logo](https://www.jenkins.io/favicon-32x32.png)
+### Jenkins <img src="https://www.jenkins.io/favicon-32x32.png" width="32" height="32" alt="Jenkins Icon">
 
 | Pipeline Scripts | Examples |
 |--------------------------|-----------------------------|
@@ -44,7 +44,7 @@ The Bit Tasks organization contains different scripts, tools and CI/CD solutions
 | [Dependency Update](https://github.com/bit-tasks/jenkins-examples/blob/main/jenkins-files/dependency-update) | |
 | [Branch Lane](https://github.com/bit-tasks/jenkins-examples/blob/main/jenkins-files/branch-lane) | |
 
-### Azure DevOps
+### Azure DevOps <img src="https://cdn.vsassets.io/content/icons/favicon.ico" width="24" height="24" alt="Azure DevOps Icon">
 
 #### Azure DevOps Examples
 
