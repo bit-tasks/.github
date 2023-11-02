@@ -50,7 +50,7 @@ The Bit Tasks organization contains different scripts, tools and CI/CD solutions
 
 | Azure DevOps Marketplace Tasks | Examples |
 |--------------------------|-----------------------------|
-| [Initialize Bit, Verify Components, Tag and Export, Pull Request Build, Lane Cleanup, Commit Bitmap, Dependency Update, Branch Lane](https://github.com/bit-tasks/azure-devops-tasks)   | [Examples](https://github.com/bit-tasks/azure-devops-examples) |
+| [All Tasks](https://github.com/bit-tasks/azure-devops-tasks)   | [Examples](https://github.com/bit-tasks/azure-devops-examples) |
 
 
 ### Other Scripts
