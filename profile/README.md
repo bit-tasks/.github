@@ -67,8 +67,6 @@ The Bit Tasks organization contains different scripts, tools and CI/CD solutions
 
 | Bit Docker Image | Scripts |
 |--------------------------|-----------------------------|
-| [Image Repo](https://github.com/bit-tasks/bit-docker-image)  | [GitHub](https://github.com/bit-tasks/.github/blob/main/profile/README.md#github-) |
-|   | [GitLab](https://github.com/bit-tasks/.github/blob/main/profile/README.md#gitlab-) |
-|   | [Bare Scope](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/barescope) |
+| [Image Repo](https://github.com/bit-tasks/bit-docker-image)  | [Bare Scope](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/barescope) |
 |   | [Check Server](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/checkserver) | 
 
