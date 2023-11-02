@@ -55,12 +55,31 @@ The Bit Tasks organization contains different scripts, tools and CI/CD solutions
 
 ### Other Scripts
 
-
 #### Shell Scripts :shell:
 
+| Shell Scripts | Examples |
+|--------------------------|-----------------------------|
+| [Initialize Bit](https://github.com/bit-tasks/shell-scripts/blob/main/scripts/bit-init.sh) | [Examples](https://github.com/bit-tasks/shell-scripts) |
+| [Verify Components](https://github.com/bit-tasks/shell-scripts/blob/main/scripts/verify.sh) | |
+| [Tag and Export](https://github.com/bit-tasks/shell-scripts/blob/main/scripts/tag-export.sh) | |
+| [Pull Request Build](https://github.com/bit-tasks/shell-scripts/blob/main/scripts/pull-request.sh) | |
+| [Lane Cleanup](https://github.com/bit-tasks/shell-scripts/blob/main/scripts/lane-cleanup.sh) | |
+| [Commit Bitmap](https://github.com/bit-tasks/shell-scripts/blob/main/scripts/commit-bitmap.sh) | |
+| [Dependency Update](https://github.com/bit-tasks/shell-scripts/blob/main/scripts/dependency-update.sh) | |
+| [Branch Lane](https://github.com/bit-tasks/shell-scripts/blob/main/scripts/branch-lane.sh) | |
 
 #### Node Scripts :nodejs:
 
+| NodeJS Scripts | Examples |
+|--------------------------|-----------------------------|
+| [Initialize Bit](https://github.com/bit-tasks/nodejs/blob/main/scripts/bit-init.js) | [Examples](https://github.com/bit-tasks/nodejs) |
+| [Verify Components](https://github.com/bit-tasks/nodejs/blob/main/scripts/verify.js) | |
+| [Tag and Export](https://github.com/bit-tasks/nodejs/blob/main/scripts/tag-export.js) | |
+| [Pull Request Build](https://github.com/bit-tasks/nodejs/blob/main/scripts/pull-request.js) | |
+| [Lane Cleanup](https://github.com/bit-tasks/nodejs/blob/main/scripts/lane-cleanup.js) | |
+| [Commit Bitmap](https://github.com/bit-tasks/nodejs/blob/main/scripts/commit-bitmap.js) | |
+| [Dependency Update](https://github.com/bit-tasks/nodejs/blob/main/scripts/dependency-update.js) | |
+| [Branch Lane](https://github.com/bit-tasks/nodejs/blob/main/scripts/branch-lane.js) | |
 
 
 ### Bit Docker Image
