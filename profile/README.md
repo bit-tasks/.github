@@ -4,7 +4,7 @@ The Bit Tasks organization contains different scripts, tools and CI/CD solutions
 
 ### GitHub :octocat:
 
-| GitHub Marketplace Tasks | Docker Shell Scripts | Examples (Marketplace Tasks) | Dependabot |
+| GitHub Marketplace Tasks | Docker Shell Scripts | Examples | Dependabot |
 |---------------------------|-----------------------------|---------------------------|------------|
 | [Initialize Bit](https://github.com/bit-tasks/init) | [github.bit.init](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/github.bit.init) | [Examples](https://github.com/bit-tasks/github-action-examples) | [Setup Guide](https://github.com/bit-tasks/dependabot) |
 | [Verify Components](https://github.com/bit-tasks/verify) | [github.bit.verify](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/github.bit.verify) | | |
@@ -48,9 +48,9 @@ The Bit Tasks organization contains different scripts, tools and CI/CD solutions
 
 
 
-| Tasks Repo | Examples |
+| Azure DevOps Marketplace Tasks | Examples |
 |--------------------------|-----------------------------|
-| [Tasks](https://github.com/bit-tasks/azure-devops-tasks) | [Examples](https://github.com/bit-tasks/azure-devops-examples) |
+| [Initialize Bit, Verify Components, Tag and Export, Pull Request Build, Lane Cleanup, Commit Bitmap, Dependency Update, Branch Lane](https://github.com/bit-tasks/azure-devops-tasks)   | [Examples](https://github.com/bit-tasks/azure-devops-examples) |
 
 
 ### Other Scripts
@@ -64,15 +64,11 @@ The Bit Tasks organization contains different scripts, tools and CI/CD solutions
 
 
 ### Bit Docker Image
-You can use the [Bit Docker image](https://github.com/bit-tasks/bit-docker-image) with various CI/CD tools. Select from these available images:
 
-- **Latest Stable:** 
-  ```
-  bitsrc/stable:latest
-  ```
-  
-- **Nightly:** 
-  ```bash
-  bitsrc/nightly:latest
-  ```
+| Bit Docker Image | Scripts |
+|--------------------------|-----------------------------|
+| [Image Repo](https://github.com/bit-tasks/bit-docker-image)  | GitHub |
+|   | GitLab |
+|   | [Bare Scope](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/barescope) |
+|   | [Check Server](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/checkserver) | 
 
