@@ -7,10 +7,10 @@ The Bit Tasks organization contains different scripts, tools and CI/CD solutions
 | GitHub Marketplace Tasks | Docker Shell Scripts | Examples (Marketplace Tasks) | Dependabot |
 |---------------------------|-----------------------------|---------------------------|------------|
 | [Initialize Bit](https://github.com/bit-tasks/init) | [github.bit.init](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/github.bit.init) | [Examples](https://github.com/bit-tasks/github-action-examples) | [Setup Guide](https://github.com/bit-tasks/dependabot) |
-| [Bit Verify Components](https://github.com/bit-tasks/verify) | [github.bit.verify](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/github.bit.verify) | | |
-| [Bit Tag and Export](https://github.com/bit-tasks/tag-export) | [github.bit.tag-export](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/github.bit.tag-export) | | |
-| [Bit Pull Request Build](https://github.com/bit-tasks/pull-request) | [github.bit.pull-request](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/github.bit.pull-request) | | |
-| [Bit Lane Cleanup](https://github.com/bit-tasks/lane-cleanup) | [github.bit.lane-cleanup](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/github.bit.lane-cleanup) | | |
+| [Verify Components](https://github.com/bit-tasks/verify) | [github.bit.verify](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/github.bit.verify) | | |
+| [Tag and Export](https://github.com/bit-tasks/tag-export) | [github.bit.tag-export](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/github.bit.tag-export) | | |
+| [Pull Request Build](https://github.com/bit-tasks/pull-request) | [github.bit.pull-request](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/github.bit.pull-request) | | |
+| [Lane Cleanup](https://github.com/bit-tasks/lane-cleanup) | [github.bit.lane-cleanup](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/github.bit.lane-cleanup) | | |
 | [Commit Bitmap](https://github.com/bit-tasks/commit-bitmap) | [github.bit.commit-bitmap](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/github.bit.commit-bitmap) | | |
 | [Dependency Update](https://github.com/bit-tasks/dependency-update) | [github.bit.dependency-update](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/github.bit.dependency-update) | | |
 | [Branch Lane](https://github.com/bit-tasks/branch-lane) | [github.bit.branch-lane](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/github.bit.branch-lane) | | |
@@ -36,17 +36,21 @@ The Bit Tasks organization contains different scripts, tools and CI/CD solutions
 | Pipeline Scripts | Examples |
 |--------------------------|-----------------------------|
 | [Initialize Bit](https://github.com/bit-tasks/jenkins-examples/blob/main/jenkins-files/bit-init) | [Examples](https://github.com/bit-tasks/jenkins-examples) |
-| [Bit Verify Components](https://github.com/bit-tasks/jenkins-examples/blob/main/jenkins-files/verify) | |
-| [Bit Tag and Export](https://github.com/bit-tasks/jenkins-examples/blob/main/jenkins-files/tag-export) | |
-| [Bit Pull Request Build](https://github.com/bit-tasks/jenkins-examples/blob/main/jenkins-files/pull-request) | |
-| [Bit Lane Cleanup](https://github.com/bit-tasks/jenkins-examples/blob/main/jenkins-files/lane-cleanup) | |
+| [Verify Components](https://github.com/bit-tasks/jenkins-examples/blob/main/jenkins-files/verify) | |
+| [Tag and Export](https://github.com/bit-tasks/jenkins-examples/blob/main/jenkins-files/tag-export) | |
+| [Pull Request Build](https://github.com/bit-tasks/jenkins-examples/blob/main/jenkins-files/pull-request) | |
+| [Lane Cleanup](https://github.com/bit-tasks/jenkins-examples/blob/main/jenkins-files/lane-cleanup) | |
 | [Commit Bitmap](https://github.com/bit-tasks/jenkins-examples/blob/main/jenkins-files/commit-bitmap) | |
 | [Dependency Update](https://github.com/bit-tasks/jenkins-examples/blob/main/jenkins-files/dependency-update) | |
 | [Branch Lane](https://github.com/bit-tasks/jenkins-examples/blob/main/jenkins-files/branch-lane) | |
 
 ### Azure DevOps <img src="https://cdn.vsassets.io/content/icons/favicon.ico" width="24" height="24" alt="Azure DevOps Icon">
 
-#### Azure DevOps Examples
+
+
+| Tasks Repo | Examples |
+|--------------------------|-----------------------------|
+| [Tasks](https://github.com/bit-tasks/azure-devops-tasks) | [Examples](https://github.com/bit-tasks/azure-devops-examples) |
 
 
 ### Other Scripts
