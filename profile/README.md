@@ -19,7 +19,7 @@ The Bit Tasks organization contains different scripts, tools and CI/CD solutions
 
 ### GitLab ![GitLab Logo](https://docs.gitlab.com/assets/images/gitlab-logo-header.svg)
 
-| Docker Shell Scripts | Examples (GitLab Pipelines) |
+| Docker Shell Scripts | Examples |
 |-----------------------------|-----------------------------|
 | [gitlab.bit.init](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/gitlab.bit.init) | [Examples](https://github.com/bit-tasks/gitlab-pipeline-examples) |
 | [gitlab.bit.verify](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/gitlab.bit.verify) | |
@@ -31,22 +31,18 @@ The Bit Tasks organization contains different scripts, tools and CI/CD solutions
 | [gitlab.bit.branch-lane](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/gitlab.bit.branch-lane) | |
 
 
-### Jenkins :jenkins:
+### Jenkins ![Jenkins Logo](https://www.jenkins.io/favicon-32x32.png)
 
-- **Tasks (Pipeline Scripts)**
-  - [Initialize Bit](https://github.com/bit-tasks/jenkins-examples/blob/main/jenkins-files/bit-init)
-  - [Bit Verify Components ](https://github.com/bit-tasks/jenkins-examples/blob/main/jenkins-files/verify)
-  - [Bit Tag and Export](https://github.com/bit-tasks/jenkins-examples/blob/main/jenkins-files/tag-export)
-  - [Bit Pull Request Build  ](https://github.com/bit-tasks/jenkins-examples/blob/main/jenkins-files/pull-request)
-  - [Bit Lane Cleanup  ](https://github.com/bit-tasks/jenkins-examples/blob/main/jenkins-files/lane-cleanup)
-  - [Commit Bitmap  ](https://github.com/bit-tasks/jenkins-examples/blob/main/jenkins-files/commit-bitmap)
-  - [Dependency Update](https://github.com/bit-tasks/jenkins-examples/blob/main/jenkins-files/dependency-update)
-  - [Branch Lane](https://github.com/bit-tasks/jenkins-examples/blob/main/jenkins-files/branch-lane)
-
-
-- **Examples (Pipeline Scriptrs)**
-  - [Examples](https://github.com/bit-tasks/jenkins-examples)
-
+| Pipeline Scripts | Examples |
+|--------------------------|-----------------------------|
+| [Initialize Bit](https://github.com/bit-tasks/jenkins-examples/blob/main/jenkins-files/bit-init) | [Examples](https://github.com/bit-tasks/jenkins-examples) |
+| [Bit Verify Components](https://github.com/bit-tasks/jenkins-examples/blob/main/jenkins-files/verify) | |
+| [Bit Tag and Export](https://github.com/bit-tasks/jenkins-examples/blob/main/jenkins-files/tag-export) | |
+| [Bit Pull Request Build](https://github.com/bit-tasks/jenkins-examples/blob/main/jenkins-files/pull-request) | |
+| [Bit Lane Cleanup](https://github.com/bit-tasks/jenkins-examples/blob/main/jenkins-files/lane-cleanup) | |
+| [Commit Bitmap](https://github.com/bit-tasks/jenkins-examples/blob/main/jenkins-files/commit-bitmap) | |
+| [Dependency Update](https://github.com/bit-tasks/jenkins-examples/blob/main/jenkins-files/dependency-update) | |
+| [Branch Lane](https://github.com/bit-tasks/jenkins-examples/blob/main/jenkins-files/branch-lane) | |
 
 ### Azure DevOps
 
