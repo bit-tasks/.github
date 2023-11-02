@@ -15,8 +15,7 @@ The Bit Tasks organization contains different scripts, tools and CI/CD solutions
 | [Dependency Update](https://github.com/bit-tasks/dependency-update) | [github.bit.dependency-update](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/github.bit.dependency-update) | | |
 | [Branch Lane](https://github.com/bit-tasks/branch-lane) | [github.bit.branch-lane](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/github.bit.branch-lane) | | |
 
-
-
+___
 ### GitLab <img src="https://docs.gitlab.com/assets/images/gitlab-logo-header.svg" alt="GitLab Icon">
 
 | Docker Shell Scripts | Examples |
@@ -30,7 +29,7 @@ The Bit Tasks organization contains different scripts, tools and CI/CD solutions
 | [gitlab.bit.dependency-update](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/gitlab.bit.dependency-update) | |
 | [gitlab.bit.branch-lane](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/gitlab.bit.branch-lane) | |
 
-
+___
 ### Jenkins <img src="https://www.jenkins.io/favicon-32x32.png" width="32" height="32" alt="Jenkins Icon">
 
 | Pipeline Scripts | Examples |
@@ -44,18 +43,15 @@ The Bit Tasks organization contains different scripts, tools and CI/CD solutions
 | [Dependency Update](https://github.com/bit-tasks/jenkins-examples/blob/main/jenkins-files/dependency-update) | |
 | [Branch Lane](https://github.com/bit-tasks/jenkins-examples/blob/main/jenkins-files/branch-lane) | |
 
+___
 ### Azure DevOps <img src="https://cdn.vsassets.io/content/icons/favicon.ico" width="24" height="24" alt="Azure DevOps Icon">
-
-
 
 | Azure DevOps Marketplace Tasks | Examples |
 |--------------------------|-----------------------------|
 | [All Tasks](https://github.com/bit-tasks/azure-devops-tasks)   | [Examples](https://github.com/bit-tasks/azure-devops-examples) |
 
-
-### Other Scripts
-
-#### Shell Scripts :shell:
+___
+### Shell Scripts 💻
 
 | Shell Scripts | Examples |
 |--------------------------|-----------------------------|
@@ -68,7 +64,8 @@ The Bit Tasks organization contains different scripts, tools and CI/CD solutions
 | [Dependency Update](https://github.com/bit-tasks/shell-scripts/blob/main/scripts/dependency-update.sh) | |
 | [Branch Lane](https://github.com/bit-tasks/shell-scripts/blob/main/scripts/branch-lane.sh) | |
 
-#### Node Scripts :nodejs:
+___
+### Node Scripts <img src="https://nodejs.org/static/images/favicons/favicon.png" width="24" height="24" alt="NodeJS Icon">
 
 | NodeJS Scripts | Examples |
 |--------------------------|-----------------------------|
@@ -81,11 +78,11 @@ The Bit Tasks organization contains different scripts, tools and CI/CD solutions
 | [Dependency Update](https://github.com/bit-tasks/nodejs/blob/main/scripts/dependency-update.js) | |
 | [Branch Lane](https://github.com/bit-tasks/nodejs/blob/main/scripts/branch-lane.js) | |
 
-
-### Bit Docker Image
+___
+### Bit Docker Image  <img src="https://www.docker.com/wp-content/uploads/2023/04/cropped-Docker-favicon-32x32.png" width="32" height="32" alt="Docker Icon">
 
 | Bit Docker Image | Scripts |
 |--------------------------|-----------------------------|
-| [Image Repo](https://github.com/bit-tasks/bit-docker-image)  | [Bare Scope](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/barescope) |
+| [Docker Image](https://github.com/bit-tasks/bit-docker-image)  | [Bare Scope](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/barescope) |
 |   | [Check Server](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/checkserver) | 
 
