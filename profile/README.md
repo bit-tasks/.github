@@ -37,7 +37,7 @@ ___
 | [bitbucket.bit.init](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/bitbucket.bit.init) | [Examples](https://github.com/bit-tasks/bitbucket-pipeline-examples) |
 | [bitbucket.bit.verify](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/bitbucket.bit.verify) | |
 | [bitbucket.bit.tag-export](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/bitbucket.bit.tag-export) | |
-| [bitbucket.bit.merge-request](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/bitbucket.bit.merge-request) | |
+| [bitbucket.bit.pull-request](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/bitbucket.bit.pull-request) | |
 | [bitbucket.bit.lane-cleanup](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/bitbucket.bit.lane-cleanup) | |
 | [bitbucket.bit.commit-bitmap](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/bitbucket.bit.commit-bitmap) | |
 | [bitbucket.bit.dependency-update](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/bitbucket.bit.dependency-update) | |
