@@ -30,6 +30,20 @@ ___
 | [gitlab.bit.branch-lane](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/gitlab.bit.branch-lane) | |
 
 ___
+### BitBucket <img src="https://bitbucket.org/favicon.ico" alt="BitBucket Icon">
+
+| Docker Shell Scripts | Examples |
+|-----------------------------|-----------------------------|
+| [bitbucket.bit.init](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/bitbucket.bit.init) | [Examples](https://github.com/bit-tasks/bitbucket-pipeline-examples) |
+| [bitbucket.bit.verify](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/bitbucket.bit.verify) | |
+| [bitbucket.bit.tag-export](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/bitbucket.bit.tag-export) | |
+| [bitbucket.bit.merge-request](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/bitbucket.bit.merge-request) | |
+| [bitbucket.bit.lane-cleanup](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/bitbucket.bit.lane-cleanup) | |
+| [bitbucket.bit.commit-bitmap](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/bitbucket.bit.commit-bitmap) | |
+| [bitbucket.bit.dependency-update](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/bitbucket.bit.dependency-update) | |
+| [bitbucket.bit.branch-lane](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/bitbucket.bit.branch-lane) | |
+
+___
 ### Jenkins <img src="https://www.jenkins.io/favicon-32x32.png" width="32" height="32" alt="Jenkins Icon">
 
 | Pipeline Scripts | Examples |
