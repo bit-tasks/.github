@@ -59,6 +59,7 @@ ___
 | [Commit Bitmap](https://github.com/bit-tasks/jenkins-examples/blob/main/jenkins-files/commit-bitmap) | |
 | [Dependency Update](https://github.com/bit-tasks/jenkins-examples/blob/main/jenkins-files/dependency-update) | |
 | [Branch Lane](https://github.com/bit-tasks/jenkins-examples/blob/main/jenkins-files/branch-lane) | |
+| [Lane Branch](https://github.com/bit-tasks/jenkins-examples/blob/main/jenkins-files/lane-branch) | |
 
 ___
 ### Azure DevOps <img src="https://cdn.vsassets.io/content/icons/favicon.ico" width="24" height="24" alt="Azure DevOps Icon">
