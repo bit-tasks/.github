@@ -80,6 +80,7 @@ ___
 | [Commit Bitmap](https://github.com/bit-tasks/shell-scripts/blob/main/scripts/commit-bitmap.sh) | |
 | [Dependency Update](https://github.com/bit-tasks/shell-scripts/blob/main/scripts/dependency-update.sh) | |
 | [Branch Lane](https://github.com/bit-tasks/shell-scripts/blob/main/scripts/branch-lane.sh) | |
+| [Lane Branch](https://github.com/bit-tasks/shell-scripts/blob/main/scripts/lane-branch.sh) | |
 
 ___
 ### Node Scripts <img src="https://nodejs.org/static/images/favicons/favicon.png" width="24" height="24" alt="NodeJS Icon">
@@ -94,6 +95,7 @@ ___
 | [Commit Bitmap](https://github.com/bit-tasks/nodejs/blob/main/scripts/commit-bitmap.js) | |
 | [Dependency Update](https://github.com/bit-tasks/nodejs/blob/main/scripts/dependency-update.js) | |
 | [Branch Lane](https://github.com/bit-tasks/nodejs/blob/main/scripts/branch-lane.js) | |
+| [Lane Branch](https://github.com/bit-tasks/nodejs/blob/main/scripts/lane-branch.js) | |
 
 ___
 ### Bit Docker Image  <img src="https://www.docker.com/wp-content/uploads/2023/04/cropped-Docker-favicon-32x32.png" width="32" height="32" alt="Docker Icon">
