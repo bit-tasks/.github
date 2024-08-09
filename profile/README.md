@@ -29,6 +29,7 @@ ___
 | [gitlab.bit.commit-bitmap](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/gitlab.bit.commit-bitmap) | |
 | [gitlab.bit.dependency-update](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/gitlab.bit.dependency-update) | |
 | [gitlab.bit.branch-lane](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/gitlab.bit.branch-lane) | |
+| [gitlab.bit.lane-branch](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/gitlab.bit.lane-branch) | |
 
 ___
 ### BitBucket <img src="https://bitbucket.org/favicon.ico" alt="BitBucket Icon">
@@ -43,6 +44,7 @@ ___
 | [bitbucket.bit.commit-bitmap](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/bitbucket.bit.commit-bitmap) | |
 | [bitbucket.bit.dependency-update](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/bitbucket.bit.dependency-update) | |
 | [bitbucket.bit.branch-lane](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/bitbucket.bit.branch-lane) | |
+| [bitbucket.bit.lane-branch](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/bitbucket.bit.lane-branch) | |
 
 ___
 ### Jenkins <img src="https://www.jenkins.io/favicon-32x32.png" width="32" height="32" alt="Jenkins Icon">
