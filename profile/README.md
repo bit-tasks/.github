@@ -15,6 +15,7 @@ The Bit Tasks organization contains different scripts, tools and CI/CD solutions
 | [Dependency Update](https://github.com/bit-tasks/dependency-update) | [github.bit.dependency-update](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/github.bit.dependency-update) | | |
 | [Branch Lane](https://github.com/bit-tasks/branch-lane) | [github.bit.branch-lane](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/github.bit.branch-lane) | | |
 | [Lane Branch](https://github.com/bit-tasks/lane-branch) | [github.bit.lane-branch](https://github.com/bit-tasks/bit-docker-image/blob/main/scripts/github.bit.lane-branch) | | |
+| [Verify Lane in Consumer](https://github.com/bit-tasks/verify-lane-in-consumer) | | | |
 
 ___
 ### GitLab <img src="https://docs.gitlab.com/assets/images/gitlab-logo-header.svg" alt="GitLab Icon">
