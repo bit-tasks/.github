@@ -18,7 +18,7 @@ The Bit Tasks organization contains different scripts, tools and CI/CD solutions
 | [Verify Lane in Consumer](https://github.com/bit-tasks/verify-lane-in-consumer) | | | |
 
 ___
-### GitLab <img src="https://docs.gitlab.com/assets/images/gitlab-logo-header.svg" alt="GitLab Icon">
+### GitLab <img src="https://about.gitlab.com/nuxt-images/ico/favicon-32x32.png" alt="GitLab Icon">
 
 | Docker Shell Scripts | Examples |
 |-----------------------------|-----------------------------|
